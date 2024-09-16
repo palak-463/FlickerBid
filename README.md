@@ -33,7 +33,7 @@
 
 ## 📚 Resources
 
-- For more information on Candle Auctions, refer to the [Wikipedia page](https://en.wikipedia.org/wiki/Candle_auction).
+- For more information on Candle Auctions, refer to the [Wikipedia page of Candle Auction](https://en.wikipedia.org/wiki/Candle_auction).
 
 <br>
 
