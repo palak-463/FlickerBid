@@ -1,4 +1,4 @@
-# 🕯️ Flicker Bid Candle Auction System
+# 🕯️ Flicker Bid
 
 **Flicker Bid** is a Solidity-based implementation of a **Candle Auction** using Hardhat. A candle auction is a type of auction in which the end time is determined by the length of a candle burning, creating an element of unpredictability. This mechanism is aimed at simulating historical candle auctions used during the 17th and 18th centuries.
 
